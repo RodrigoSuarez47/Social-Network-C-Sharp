@@ -1,0 +1,38 @@
+﻿@using Dominio;
+@model Comentario;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@ViewBag.error
+
+<p class="h2">Comentarios al Post: @ViewBag.Post.Titulo</p>
+<br />
+<section class="container text-center w-50 p-3" id="comentarios">
+    <a class="btn btn-secondary" href="/Publicacion/VerPublicaciones">Volver atras</a>
+    @if(Context.Session.GetString("bloqueado") == "desbloqueado")
+    {
+        <a class="btn btn-primary" href="/Publicacion/AñadirComentario?postId=@ViewBag.Post.Id">Añadir comentario</a>
+    }
+    else
+    {
+        <a class="btn btn-danger disabled" href="/Publicacion/AñadirComentario?postId=@ViewBag.Post.Id" >Añadir comentario</a>
+                <p class="text-danger">Usted se encuentra bloqueado y no puede realizar comentarios</p>
+    }
+    <br />
+    @foreach (Comentario comentario in ViewBag.ComentariosDePost)
+        {
+        <br />
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title">@comentario.Autor</h5>
+            </div>
+            <div class="card-body">
+                <p class="card-text">@comentario.Texto</p>
+                <p class="card-text">Fecha Publicacion: @comentario.FechaPublicacion.ToShortDateString()</p>
+                <a class="btn btn-primary"  href="/Publicacion/VerReaccionesComentario?comentarioId=@comentario.Id">Ver reacciones</a>
+            </div>
+        </div>
+        }
+</section>

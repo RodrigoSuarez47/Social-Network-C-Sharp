@@ -1,0 +1,51 @@
+﻿@using Dominio;
+@model Post;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1 class="display-3">Publicaciones</h1>
+<hr />
+<br />
+<section class="container" id="publicaciones">
+    @if (ViewBag.misPublicaciones != null && Context.Session.GetString("rol") != null)
+    {
+        @foreach (Post post in ViewBag.misPublicaciones){
+            <div class="container text-center w-50 p-3">
+                <div class="card">
+                    <img src="http://via.placeholder.com/600x200" class="card-img-top" alt="@post.Imagen">
+                    <div class="card-body">
+                        <h5 class="card-title">@post.Titulo</h5>
+                        <p class="card-text">Publicado por @post.Autor.ToString()</p>
+                        <p class="card-text">Fecha de publicacion: @post.FechaPublicacion.ToShortDateString()</p>
+                        <p class="card-text">Texto del post: @post.Texto</p>
+                        <p class="card-text">Valor aceptacion: @post.CalcularAceptacion()</p>
+                        @if(Context.Session.GetString("rol")== "miembro")
+                        {
+                        <a class ="btn btn-primary" href="/Publicacion/VerComentariosPost?postId=@post.Id">Ver comentarios</a>
+                        <a class="btn btn-primary" href="/Publicacion/VerReacciones?postId=@post.Id">Ver reacciones</a>                            
+                        }
+                        @if(Context.Session.GetString("rol")== "administrador")
+                        {
+                            @if (!@post.Censurado)
+                            {
+                                <a class="btn btn-danger" href="/Publicacion/BanearPost?postId=@post.Id">Banear post</a>                               
+                            }
+                            else
+                            {
+                                <a class="btn btn-success" href="/Publicacion/DesbanearPost?postId=@post.Id">Desbanear post</a>                                                           
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    
+    
+</section>
+<div class="row">
+    <p class="text-center">@ViewBag.error</p>
+</div>

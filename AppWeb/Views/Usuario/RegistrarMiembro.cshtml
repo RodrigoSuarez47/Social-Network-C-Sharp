@@ -1,0 +1,41 @@
+﻿@using Dominio
+@model Miembro
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!--Esta funcionando!-->
+<!--Formualrio-->
+<section class="container text-center w-25 p-3">
+    <h3>Registrarse</h3>
+    <br>
+    <form action="/Usuario/RegistrarMiembro" method="post">
+        <div>
+            <label for="Email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" required>
+        </div>
+        <div>
+            <label for="Contraseña" class="form-label">Contraseña</label>
+            <input type="password" class="form-control" id="Contraseña" aria-describedby="passwordHelp" name="Contraseña" required>
+            <div id="passwordHelp" class="form-text">La contraseña debe contener al menos una mayúscula, una minúscula y un número.</div>
+        </div>
+        <div>
+            <label for="Nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" id="Nombre" name="Nombre" value="@Model.Nombre" required>
+        </div>
+        <div>
+            <label for="Apellido" class="form-label">Apellido</label>
+            <input type="text" class="form-control" id="Apellido" name="Apellido" value="@Model.Apellido" required>
+        </div>
+        <div>
+            <label for="FechaNacimiento" class="form-label">Fecha De Nacimiento</label>
+            <input type="date" class="form-control" id="FechaNacimiento" name="FechaNacimiento" value="@Model.FechaNacimiento" required>
+        </div>
+        <br>
+        <button type="submit" class="btn btn-primary">Confirmar Registro</button>
+        <div>@ViewBag.error</div>
+        <div>@ViewBag.mensaje</div>
+
+    </form>
+</section>

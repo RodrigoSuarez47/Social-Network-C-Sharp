@@ -1,0 +1,288 @@
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\Nueva carpeta\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO CON CORRECCION\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 14.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 15.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2 17.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2 20.09.2023\OBLIGATORIO P2\OBLIGATORIO P2\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 20.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\rodri\Downloads\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\OBLIGATORIO P2 07.09.2023\OBLIGATORIO P2 28.09.2023\OBLIGATORIO P2 28.09.2023\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\rodri\Downloads\OBLIGATORIO 303425 - 287048\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.exe
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.deps.json
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.runtimeconfig.json
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\bin\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.dll
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.csproj.CopyComplete
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.dll
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\refint\AppTest.dll
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.pdb
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\AppTest.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO\SolucionObligatorio\AppTest\obj\Debug\net7.0\ref\AppTest.dll

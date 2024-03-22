@@ -1,0 +1,49 @@
+﻿@using Dominio;
+@model Usuario;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@ViewBag.error
+@if (Context.Session.GetString("rol") == "administrador")
+{
+    <form action="ListarMiembrosAdmin" method="post">
+        <div class="mb-3">
+            <label for="buscarEmail" class="form-label">Buscar usuario por email:</label>
+            <input type="text" class="form-control" id="buscarEmail" name="email"><br>
+            <button type="submit" class="btn btn-primary">Buscar</button>
+            
+        </div>
+    </form>
+    <table class="table table-striped">
+
+        <thead>
+            <tr>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido</th>
+                <th scope="col">Fecha Nacimiento</th>
+                <th scope="col">Email</th>
+                <th scope="col">Estado</th>
+            </tr>
+        </thead>
+        @foreach (Miembro unMiembro in ViewBag.miembros)
+        {
+            <tr>
+                <th scope="row">@unMiembro.Nombre</th>
+                <th>@unMiembro.Apellido</th>
+                <th>@unMiembro.FechaNacimiento.ToShortDateString()</th>
+                <th>@unMiembro.Email</th>
+                @if (!unMiembro.Bloqueado)
+                {
+                    <td><a class="btn btn-danger" href="/Usuario/BloquearMiembro?Email=@unMiembro.Email">Bloquear Usuario</a></td>
+                }
+                @if (unMiembro.Bloqueado)
+                {
+                    <td><a class="btn btn-success" href="/Usuario/DesbloquearMiembro?Email=@unMiembro.Email">Desbloquear Usuario</a></td>
+                }
+            </tr>
+        }
+    </table>
+
+}

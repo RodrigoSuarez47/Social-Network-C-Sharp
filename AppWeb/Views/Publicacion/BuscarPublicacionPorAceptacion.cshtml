@@ -1,0 +1,68 @@
+﻿@using Dominio;
+@model Publicacion;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1 class="display-3 text-center">Busqueda de publicaciones</h1>
+<hr />
+<br />
+<section class="container" id="publicaciones">
+
+    @if (Context.Session.GetString("rol") == "miembro")
+    {
+        <form action="BuscarPublicacionPorAceptacion" method="post" class="col-7 align-self-start">
+            <div class="mb-3">
+                <label for="buscarPublicacion" class="form-label">Buscar publicacion por texto:</label>
+                <input type="text" class="form-control" id="buscarPublicacion" name="textoPublicacion" required><br>
+                <label for="buscarAceptacion" class="form-label">Ingrese valor de aceptacion:</label>
+                <input type="number" class="form-control" id="buscarAceptacion" name="valorAceptacion" required><br>
+                <button type="submit" class="btn btn-primary">Buscar post</button>
+                <p>@ViewBag.error</p>
+            </div>
+        </form>
+        @if (ViewBag.misPublicaciones != null)
+        {
+            <h2 class="display-3 text-center col-7">Publicaciones encontradas:</h2>
+            @foreach (Publicacion publicacion in ViewBag.misPublicaciones)
+            {
+                if (publicacion is Post)
+                {
+                    Post post = publicacion as Post;
+                    <div class="container text-center w-50 p-3">
+                        <div class="card">
+                            <img src="http://via.placeholder.com/600x200" class="card-img-top" alt="@post.Imagen">
+                            <div class="card-body">
+                                <h5 class="card-title">@post.Titulo</h5>
+                                <p class="card-text">Publicado por @post.Autor.ToString()</p>
+                                <p class="card-text">Fecha de publicacion: @post.FechaPublicacion.ToShortDateString()</p>
+                                <p class="card-text">@post.Texto</p>
+                                <p class="card-text">Valor aceptacion: @post.CalcularAceptacion()</p>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+                if (publicacion is Comentario)
+                {
+                    Comentario comentario = publicacion as Comentario;
+                    <div class="container text-center w-50 p-3">
+                        <div class="card">                           
+                            <div class="card-body">
+                                <h5 class="card-title">@comentario.Titulo</h5>
+                                <p class="card-text">Publicado por @comentario.Autor.ToString()</p>
+                                <p class="card-text">Fecha de publicacion: @comentario.FechaPublicacion.ToShortDateString()</p>
+                                <p class="card-text">@comentario.Texto</p>
+                                <p class="card-text">Valor aceptacion: @comentario.CalcularAceptacion()</p>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+
+            }
+        }
+    }
+</section>

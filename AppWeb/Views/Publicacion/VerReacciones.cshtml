@@ -1,0 +1,30 @@
+﻿@using Dominio;
+@model Publicacion;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<p class="h2 text-center mx-auto">Reacciones al post: @ViewBag.post.Titulo </p>
+<br />
+<section class="container text-center w-50 p-3" id="comentarios">
+        <div class="card">
+            <div class="card-header">
+            <h5 class="card-title">Autor de post: @ViewBag.post.Autor</h5>
+            </div>
+            <div class="card-body">
+            <p class="card-text"><a href="/Publicacion/VerLikes?postId=@ViewBag.Post.Id">Cantidad de likes:</a> <span class="badge bg-primary rounded-pill">@ViewBag.likes</span></p>
+            <p class="card-text"><a href="/Publicacion/VerdisLikes?postId=@ViewBag.Post.Id">Cantidad dislikes:</a> <span class="badge bg-primary rounded-pill">@ViewBag.dislikes</span></p>
+            <p class="card-text">Valor aceptacion: <span class="badge bg-primary rounded-pill">@ViewBag.VA</span></p>
+            <a class="btn btn-secondary" href="/Publicacion/VerPublicaciones">Volver atras</a>
+            <a class="btn btn-success" href="/Publicacion/AnadirMeGusta?postId=@ViewBag.Post.Id">Me gusta</a>
+            <a class="btn btn-danger" href="/Publicacion/AnadirNoMeGusta?postId=@ViewBag.Post.Id">No me gusta</a>
+            
+
+        </div>
+        </div>
+        <br />
+
+</section>
+@ViewBag.error

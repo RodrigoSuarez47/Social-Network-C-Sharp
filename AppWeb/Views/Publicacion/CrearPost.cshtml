@@ -1,0 +1,47 @@
+﻿@using Dominio;
+@model Post;
+
+@{
+}
+
+<h1>Crear Post</h1>
+
+<hr />
+<section class="container">
+    <article class="row">
+        <form action="/Publicacion/CrearPost" method="post">
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Titulo del post:</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" name="Titulo">
+            </div>
+            <div class="mb-3">
+                <label for="Texto" class="form-label">Texto del post </label>
+                <textarea class="form-control" name="Texto" rows="6" style="resize: none"></textarea>
+            </div>
+            <!--
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" name="Privado">
+                <label class="form-check-label" for="flexSwitchCheckDefault">Post privado</label>
+            </div>
+            -->
+            <div class="mb-3">
+                <label for="Privado" class="form-label">Privacidad del post</label>
+            <select name="Privado" class="form-select form-select-lg mb-3">
+                <option selected value=false>Post publico</option>
+                <option value=true>Post privado</option>
+            </select>
+            </div>
+            @if (Context.Session.GetString("bloqueado") == "desbloqueado")
+            {
+                
+                <button type="submit" class="btn btn-primary">Crear</button>
+            }else{
+                <button type="submit" class="btn btn-primary disabled" >Crear</button>
+                <p>Este usuario esta bloqueado y no puede publicar posts</p>
+            }
+            
+            @ViewBag.error
+        </form>
+    </article>
+</section>
+

@@ -1,0 +1,28 @@
+﻿@using Dominio;
+@model Publicacion;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<p class="h2 text-center mx-auto">Reacciones al comentario: @ViewBag.Comentario.Titulo </p>
+<br />
+<section class="container text-center w-50 p-3" id="comentarios">
+    <div class="card">
+        <div class="card-header">
+            <h5 class="card-title">Autor de post: @ViewBag.Comentario.Autor</h5>
+        </div>
+        <div class="card-body">
+            <p class="card-text"><a href="/Publicacion/VerLikesComentario?comentarioId=@ViewBag.Comentario.Id">Cantidad de likes:</a> <span class="badge bg-primary rounded-pill">@ViewBag.likes</span></p>
+            <p class="card-text"><a href="/Publicacion/VerdisLikesComentario?comentarioId=@ViewBag.Comentario.Id">Cantidad dislikes:</a> <span class="badge bg-primary rounded-pill">@ViewBag.dislikes</span></p>
+            <p class="card-text">Valor aceptacion: <span class="badge bg-primary rounded-pill">@ViewBag.VA</span></p>
+            <a class="btn btn-secondary" href="/Publicacion/VerComentariosPost?postId=@ViewBag.post.Id">Volver atras</a>
+            <a class="btn btn-success" href="/Publicacion/AnadirMeGustaComentario?comentarioId=@ViewBag.Comentario.Id">Me gusta</a>
+            <a class="btn btn-danger" href="/Publicacion/AnadirNoMeGustaComentario?comentarioId=@ViewBag.Comentario.Id">No me gusta</a>
+        </div>
+    </div>
+    <br />
+
+</section>
+@ViewBag.error

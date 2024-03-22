@@ -1,0 +1,68 @@
+﻿@using Dominio
+
+<h1>Miembros</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Fecha Nacimiento</th>
+            <th scope="col">Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @ViewBag.error
+        @if (Context.Session.GetString("rol") == "miembro")
+        {
+            @foreach (Miembro unMiembro in @ViewBag.miembros)
+            {
+                if (unMiembro.Email != Context.Session.GetString("usuarioIngresado"))
+                {
+                    <tr>
+                        <th scope="row">@unMiembro.Nombre</th>
+                        <td>@unMiembro.Apellido</td>
+                        <td>@unMiembro.FechaNacimiento.ToShortDateString()</td>
+                        <td>@unMiembro.Email</td>
+                        <td>
+                            @{
+                                bool esAmigo = unMiembro.ObtenerListaAmigos().Any(amigo => amigo.Email == Context.Session.GetString("usuarioIngresado"));
+                                bool solicitudEnviada = false;
+
+                                if (@ViewBag.solicitudes != null)
+                                {
+                                    foreach (Solicitud solicitud in @ViewBag.solicitudes)
+                                    {
+                                        if ((solicitud.EstadoSolicitud is Solicitud.Estado.Pendiente && solicitud.Solicitante.Email == Context.Session.GetString("usuarioIngresado") && solicitud.Solicitado.Email == unMiembro.Email) ||
+                                        (solicitud.EstadoSolicitud is Solicitud.Estado.Pendiente  && solicitud.Solicitado.Email == Context.Session.GetString("usuarioIngresado") && solicitud.Solicitante.Email == unMiembro.Email))
+                                        {
+                                            if (solicitud.Solicitante.Email == Context.Session.GetString("usuarioIngresado"))
+                                            {
+                                                <a class="btn btn-danger align-items-center" href="/Usuario/CancelarSolicitudAmistad?Email=@unMiembro.Email">Cancelar solicitud</a>
+                                            }
+                                            else
+                                            {
+                                                <a class="btn btn-success align-items-center" href="/Usuario/AceptarSolicitudAmistad?Email=@unMiembro.Email">Aceptar solicitud</a>
+                                                <a class="btn btn-danger align-items-center" href="/Usuario/RechazarSolicitudAmistad?Email=@unMiembro.Email">Rechazar solicitud</a>
+                                            }
+                                            solicitudEnviada = true;
+                                            break;
+                                        }
+                                    }
+                                }
+                                if (!esAmigo && !solicitudEnviada)
+                                {
+                                    <a class="btn btn-success align-items-center" href="/Usuario/EnviarSolicitudAmistad?Email=@unMiembro.Email">Enviar solicitud</a>
+                                }
+                                else if (esAmigo && !solicitudEnviada)
+                                {
+                                    <a class="btn btn-danger disabled align-items-center" href="#">Enviar solicitud</a>
+                                    <p class="text-danger">Este miembro ya es tu amigo.</p>
+                                }
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+        }
+    </tbody>
+</table>

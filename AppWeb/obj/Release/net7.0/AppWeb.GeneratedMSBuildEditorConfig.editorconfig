@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppWeb
+build_property.RootNamespace = AppWeb
+build_property.ProjectDir = C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO 19.11.23 v7\OBLIGATORIO 19.11.23 v5\SolucionObligatorio\AppWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Pablo\Desktop\PROGRAMACION 2\OBLIGATORIO\OBLIGATORIO P2 07.09.2023\OBLIGATORIO 19.11.23 v7\OBLIGATORIO 19.11.23 v5\SolucionObligatorio\AppWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/AñadirComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cQcOxYWRpckNvbWVudGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/BuscarPublicacionPorAceptacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cQnVzY2FyUHVibGljYWNpb25Qb3JBY2VwdGFjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/CrearPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cQ3JlYXJQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/VerComentariosPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cVmVyQ29tZW50YXJpb3NQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/VerLikes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cVmVyTGlrZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/VerLikesComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cVmVyTGlrZXNDb21lbnRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/VerPublicaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cVmVyUHVibGljYWNpb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/VerReacciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cVmVyUmVhY2Npb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Publicacion/VerReaccionesComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cVmVyUmVhY2Npb25lc0NvbWVudGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Usuario/IngresarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmdyZXNhclVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Usuario/ListarMiembros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMaXN0YXJNaWVtYnJvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Usuario/ListarMiembrosAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMaXN0YXJNaWVtYnJvc0FkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Usuario/RegistrarMiembro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xSZWdpc3RyYXJNaWVtYnJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/PROGRAMACION 2/OBLIGATORIO/OBLIGATORIO P2 07.09.2023/OBLIGATORIO 19.11.23 v7/OBLIGATORIO 19.11.23 v5/SolucionObligatorio/AppWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nskxcf7d0a

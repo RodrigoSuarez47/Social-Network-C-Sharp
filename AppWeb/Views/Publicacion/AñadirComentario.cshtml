@@ -1,0 +1,27 @@
+﻿@using Dominio;
+@model Publicacion;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@ViewBag.error
+<section class="container text-center w-25 p-3">
+    <h3>Añadir Comentario</h3>
+    <br>
+    <form action="/Publicacion/AñadirComentario" method="post">
+        <div class="mb-3">
+            <label for="Titulo" class="form-label">Titulo del comentario</label>
+            <input type="text" class="form-control" name="Titulo" value="@Model.Titulo" required>
+            <input type="text" class="form-control"  value="@ViewBag.post.Id" name="postId" hidden>
+        </div>
+        <div class="mb-3">
+            <label for="Texto" class="form-label">Contenido </label>
+            <textarea class="form-control" name="Texto" rows="6" style="resize: none" value="@Model.Texto"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Añadir</button>
+    </form>
+    <br />
+    <a class="btn btn-primary" href="/Publicacion/VerComentariosPost?postId=@ViewBag.post.Id">Volver atras</a>
+</section>
